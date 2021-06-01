@@ -6,7 +6,7 @@ if exists("syntax on")
     syntax reset
 endif
 
-hi Comment          ctermbg=NONE    ctermfg=4       cterm=NONE
+hi Comment          ctermbg=NONE    ctermfg=4       cterm=italic
 hi Constant         ctermbg=NONE    ctermfg=1       cterm=NONE
 hi Identifier       ctermbg=NONE    ctermfg=6       cterm=NONE
 hi Statement        ctermbg=NONE    ctermfg=3       cterm=NONE
