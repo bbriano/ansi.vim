@@ -38,3 +38,10 @@ hi PmenuThumb       ctermbg=8       ctermfg=NONE    cterm=NONE
 
 hi SpellCap         ctermbg=NONE    ctermfg=NONE    cterm=underline
 hi SpellBad         ctermbg=NONE    ctermfg=NONE    cterm=underline
+
+hi MarkdownH1       ctermbg=NONE    ctermfg=NONE    cterm=NONE
+hi MarkdownH2       ctermbg=NONE    ctermfg=NONE    cterm=NONE
+hi MarkdownH3       ctermbg=NONE    ctermfg=NONE    cterm=NONE
+hi MarkdownH4       ctermbg=NONE    ctermfg=NONE    cterm=NONE
+hi MarkdownH5       ctermbg=NONE    ctermfg=NONE    cterm=NONE
+hi MarkdownH6       ctermbg=NONE    ctermfg=NONE    cterm=NONE
