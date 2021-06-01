@@ -35,3 +35,6 @@ hi Pmenu            ctermbg=8       ctermfg=NONE    cterm=NONE
 hi PmenuSbar        ctermbg=8       ctermfg=NONE    cterm=NONE
 hi PmenuSel         ctermbg=7       ctermfg=0       cterm=NONE
 hi PmenuThumb       ctermbg=8       ctermfg=NONE    cterm=NONE
+
+hi SpellCap         ctermbg=NONE    ctermfg=NONE    cterm=underline
+hi SpellBad         ctermbg=NONE    ctermfg=NONE    cterm=underline
